@@ -4,7 +4,57 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0ba78d3-4de0-4514-9b6a-ec96f908a884" name="Changes" comment="" />
+    <list default="true" id="d0ba78d3-4de0-4514-9b6a-ec96f908a884" name="Changes" comment="final">
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/EcatalogApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/controller/AppUserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/controller/SchoolClassController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/controller/StudentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/controller/TeacherController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/dto/AppUserCreateDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/dto/SchoolClassCreateDto$SchoolClassCreateDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/dto/SchoolClassCreateDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/dto/SchoolClassDto$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/dto/SchoolClassDto$SchoolClassDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/dto/SchoolClassDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/dto/StudentCardDto$StudentCardDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/dto/StudentCardDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/dto/StudentCreateDto$StudentCreateDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/dto/StudentCreateDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/dto/StudentDto$StudentDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/dto/StudentDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/dto/TeacherCardDto$TeacherCardDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/dto/TeacherCardDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/dto/TeacherCreateDto$TeacherCreateDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/dto/TeacherCreateDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/dto/TeacherDto$TeacherDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/dto/TeacherDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/entity/AppUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/entity/ClassLevel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/entity/SchoolClass$SchoolClassBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/entity/SchoolClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/entity/Student$StudentBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/entity/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/entity/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/entity/Teacher$TeacherBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/entity/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/exceptions/SchoolClassInvalidException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/mapper/SchoolClassMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/mapper/StudentMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/mapper/TeacherMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/repository/AppUserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/repository/SchoolClassRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/repository/StudentRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/repository/TeacherRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/security/AppAuthenticationProviderConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/security/AppPasswordConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/security/AppSecurityConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/security/AppUserDetailsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/service/AppUserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/service/SchoolClassService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/service/StudentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecatalog/target/classes/com/org/ecatalog/service/TeacherService.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +83,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "git-widget-placeholder": "Rebasing master",
     "last_opened_file_path": "C:/Users/iulia/IdeaProjects/eCatalogApp",
     "node.js.selected.package.tslint": "(autodetect)"
